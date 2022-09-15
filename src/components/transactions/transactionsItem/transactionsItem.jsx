@@ -1,4 +1,3 @@
-
 import PropsType from 'prop-types'
 
 const TransactionItem =({type, amount, currency }) => {
